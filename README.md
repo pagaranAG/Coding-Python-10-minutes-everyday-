@@ -6,7 +6,7 @@ This repository documents my daily journey in learning Python for 10 minutes a d
 
 🌱 Week 1: Getting Started
 
-#### Day 1: What is Python?
+### Day 1: What is Python?
 Lesson: Python is a beginner-friendly, widely-used programming language. Today, learn about Python and how to run simple code.
 Instructions: Install Python on your machine. Try running Python in your terminal or with an online platform like REPL.it.
 
